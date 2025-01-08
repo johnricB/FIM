@@ -15,8 +15,7 @@ The system continuously monitors for any changes to the files and configurations
 
 <h2>Scope</h2>
 
-- <b>Early Detection of Threats</b>
-  - <b>Proactively identifies malicious activities like malware infections, data breaches, and unauthorized access.</b>
+
 - <b>Improved Security Posture</b>
    - <b>Helps maintain the integrity of critical systems and data.</b>
 - <b>Alerting and Response:</b>
