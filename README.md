@@ -38,8 +38,8 @@ Collect new Baseline.<br/>
 <img src="https://i.imgur.com/yd81VRN.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Begin monitoring files with saved Baseline Notify the user if a file is changed or deleted.<br/>
-<img src="https://i.imgur.com/ASjH8C1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Ea1rxw2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nYYoftX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7zT7jnn.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
