@@ -31,21 +31,21 @@ The system continuously monitors for any changes to the files and configurations
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the Application: <br/>
+Ask the user what they want to do. <br/>
 <img src="https://i.imgur.com/QJCcUVk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating two separate accounts <br/>
+Collect new Baseline.<br/>
 <img src="https://i.imgur.com/gPyH1a9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/zzIcKdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Messaging and posting functionality using the Second Account<br/>
+Begin monitoring files with saved Baseline<br/>
 <img src="https://i.imgur.com/MGywKvX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/T8pkKJv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Access the first account to view posts and reply to messages.<br/>
+Notify the user if a file is changed or deleted.<br/>
 <img src="https://i.imgur.com/ASjH8C1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Ea1rxw2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
