@@ -32,7 +32,7 @@ The system continuously monitors for any changes to the files and configurations
 
 <p align="center">
 Ask the user what they want to do. <br/>
-<img src="https://i.imgur.com/QJCcUVk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P1rxLPT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Collect new Baseline.<br/>
