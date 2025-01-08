@@ -23,16 +23,11 @@ The system continuously monitors for any changes to the files and configurations
    - <b>If any unauthorized changes are detected (e.g., file modifications, deletions, additions), the FIM system generates alerts.</b>
 
 
-<h2>Limitation</h2>
-
-- <b>Limited to 10 Accounts in the Initial Implementation.</b>
-- <b>Currently Under Development and Contains Numerous Bugs.</b> 
-
 
 <h2>Environments Used </h2>
 
-- <b>Android</b>
-- <b>iOS</b> 
+- <b>Windows 10</b>
+
 
 <h2>Program walk-through:</h2>
 
