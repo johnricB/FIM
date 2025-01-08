@@ -22,7 +22,6 @@ The system continuously monitors for any changes to the files and configurations
    - <b>If any unauthorized changes are detected (e.g., file modifications, deletions, additions), the FIM system generates alerts.</b>
 
 
-
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
@@ -33,7 +32,6 @@ The system continuously monitors for any changes to the files and configurations
 <p align="center">
 Ask the user what they want to do. <br/>
 <img src="https://i.imgur.com/P1rxLPT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 <br />
 Collect new Baseline.<br/>
 <img src="https://i.imgur.com/gPyH1a9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
